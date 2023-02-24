@@ -2,4 +2,4 @@
 
 _May not display correctly in FireFox._
 
-[View🔎](https://d0nut-dev.github.io/a-clock/)
+[View🔎](https://lnn0q.github.io/a-clock/)
